@@ -4,6 +4,8 @@ The repository that will be used is the CMPG 323 Overview 33637512 repository th
 # Diagram explaining project and the repository context
 ![Image](https://user-images.githubusercontent.com/88766550/185238742-f53880cf-012a-43bd-87d4-05345c3f4fc1.png)
 
+Strategy for the semester:
+Going to try and stick to the scheduling I made and get all the Projects done in time as I said in how many hours I think  I will need to do the project
 # Branching strategies that will be used
 New branches will be used when creating new projects to check if it was updated to the main branch and that it is connected, this way you can control it
 
