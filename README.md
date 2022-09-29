@@ -18,3 +18,4 @@ Go to the folder on your local computer that contains your repository.
 To set up the repository with git-secret, run git secret init.
 Run one of the following commands to use the default user: git secret tell -m.
 Generate a Gpg key, you can also encrypt the files
+Updated my progress till Submission of project3
